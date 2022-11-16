@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: @dudacortez
